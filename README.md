@@ -11,5 +11,4 @@ Power BI Dashborad :
 ![image](https://github.com/khannavedofl/Cricket-Data-Analytics/assets/164944805/fc246775-b83a-4dad-b96b-ff2452a52af2)
 
 Analyzing Data in Power BI : 
-![image](https://github.com/khannavedofl/Cricket-Data-Analytics/assets/164944805/921f1cc0-dbd3-41a1-a1d0-a845e7511da5)
-
+![image](https://github.com/khannavedofl/Cricket-Data-Analytics/assets/164944805/1825d43c-1fd9-434e-9140-a3d20c018cf9)
