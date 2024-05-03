@@ -6,3 +6,10 @@ Cricket Data Analysis is the Process of Collecting, Processing, and Interpreting
 1. The Batsman should Have at least 130 Strike Rate.
 2. The Bowler should have 8 or Less than 8 Economy.
 Etc...
+
+Power BI Dashborad : 
+![image](https://github.com/khannavedofl/Cricket-Data-Analytics/assets/164944805/fc246775-b83a-4dad-b96b-ff2452a52af2)
+
+Analyzing Data in Power BI : 
+![image](https://github.com/khannavedofl/Cricket-Data-Analytics/assets/164944805/921f1cc0-dbd3-41a1-a1d0-a845e7511da5)
+
